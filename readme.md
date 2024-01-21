@@ -1,1 +1,1 @@
-# Repo contains all concepts of Typescript
+# Repo contains all concepts of Typescript.
